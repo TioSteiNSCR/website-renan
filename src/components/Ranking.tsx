@@ -173,7 +173,7 @@ const Ranking: React.FC = () => {
           
           <div>
             <a 
-              href="https://bolt.new" 
+              href="https://1aninhorenan.my.canva.site/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex items-center btn-secondary"
